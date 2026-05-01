@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: akash-u-shinde/backend:
+          image: akashshinde1808/backend:latest
           ports:
             - containerPort: 5000
           env:
