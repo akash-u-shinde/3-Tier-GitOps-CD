@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: akashshinde1808/backend:a149d808401ec6aa3dc4ad9b010ba0c21ad38780
+          image: akashshinde1808/backend:1c1158d05013bfa91b7ae64ff559ba3ea0027d2d
           ports:
             - containerPort: 5000
           env:
