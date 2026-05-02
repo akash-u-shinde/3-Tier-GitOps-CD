@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: akashshinde1808/frontend:1c1158d05013bfa91b7ae64ff559ba3ea0027d2d
+          image: akashshinde1808/frontend:2d06a1dd608c61fa4d83433f70dff4789d503ce1
           ports:
             - containerPort: 80
 ---
